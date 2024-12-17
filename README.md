@@ -1,0 +1,1 @@
+This repository showcases my projects and implementations for various tasks in Natural Language Processing (NLP). Each project demonstrates practical applications of machine learning techniques for text analysis, using modern tools and libraries such as Python, PyTorch, Transformers, and scikit-learn.
